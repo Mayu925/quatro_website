@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nshibashiba"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nこれはQuartoのウェブサイトです。\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nshibashiba"
+  },
+  {
+    "objectID": "hoge.html",
+    "href": "hoge.html",
+    "title": "Hoge",
+    "section": "",
+    "text": "hogehoge"
+  }
+]
